@@ -47,6 +47,7 @@ p {
 .header-navigation {
   display: flex;
   align-items: center;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -255,6 +256,8 @@ p {
   display: flex;
   justify-content: center;
   gap: 24px;
+  width: 40px;
+   height: 40px;
 }
 /*section-four*/
 .section-portfolio {
