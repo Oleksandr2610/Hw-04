@@ -113,7 +113,6 @@ p {
 /*section-service*/
 .section-service {
   max-width: 1440px;
-  max-height: 600px;
   background-color: #2e2f42;
   padding: 188px 0;
   margin: 0 auto;
@@ -126,7 +125,6 @@ p {
   background-position: center;
   background-size: cover;
 }
-
 .service-title {
   font-size: 56px;
   line-height: 1.07;
