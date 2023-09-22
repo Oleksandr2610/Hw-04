@@ -275,7 +275,7 @@ p {
 .social-icon:hover {
   background-color: #404bbf;
 }
-.social-icon:focus {
+.social-icon:focus + .svg-icon {
   background-color: #404bbf;
 }
 .svg-icon {
