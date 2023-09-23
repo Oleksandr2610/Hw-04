@@ -80,7 +80,7 @@ p {
   color: #404bbf;
 }
 
-.nav-link:hover::after {
+.nav-link:hover::afte {
   content: "";
   position: absolute;
   left: 0;
