@@ -313,7 +313,6 @@ p {
 }
 .list-item .list-portfolio {
   width: calc((100% - 48px) / 3);
-
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .addition {
@@ -324,6 +323,7 @@ p {
 .visualization {
   position: relative;
   overflow: hidden;
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .visualization-p {
   position: absolute;
