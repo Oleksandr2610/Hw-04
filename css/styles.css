@@ -225,13 +225,13 @@ p {
 }
 .icon {
   display: flex;
-  border: none;
   align-items: center;
   justify-content: center;
+  border: 1px solid var(--LIGHT-SLATE, #8e8f99);
   height: 112px;
   background-color: #f4f4fd;
-  margin-bottom: 8px;
   border-radius: 4px;
+  margin-bottom: 8px;
 }
 
 /*section-three*/
@@ -339,7 +339,7 @@ p {
   border-top: none;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.addition:hover {
+.list-item:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
